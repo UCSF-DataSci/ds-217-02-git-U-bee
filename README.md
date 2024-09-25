@@ -1,4 +1,4 @@
-I. My Github username is "[redacted]".
+I. My Github username is "U-Bee".
 II. My answer is to iterate through a for loop 1000 times, check if i is divisible by 3 or 5, and add it to the sum if it is. The script is below:
 
 sum = 0
