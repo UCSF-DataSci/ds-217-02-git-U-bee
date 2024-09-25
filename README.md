@@ -13,4 +13,4 @@ III. My name is Bora, I'm a first-year Health Data Science Master's student and 
 # Python Link
 [https://www.python.org]
 
-![Pandas Installation](C:\Users\borau\Pictures\pandas_install_ss.png)
+![Pandas Installation](C:/Users/borau/Pictures/pandas_install_ss.png)
