@@ -12,5 +12,6 @@ print(sum)
 III. My name is Bora, I'm a first-year Health Data Science Master's student and this course is part of my degree requirements. While this is almost certainly past the scope of the class, one thing I'd like to get out of this course, if possible, is coding interview practice. 
 # Python Link
 [https://www.python.org]
-
+# Images
 ![Pandas Installation](./pandas_install_ss.png)
+![Friday](https://i.redd.it/tj4gq7yva9h91.jpg)
